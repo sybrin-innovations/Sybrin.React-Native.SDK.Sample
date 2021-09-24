@@ -1,9 +1,20 @@
 # Sybrin.React-Native.SDK.Sample
 A React-Native project demonstrating how to implement the Sybrin iOS &amp; Android SDK's into a React-Native project using native bridges.
 
-## Getting Started
-When you are done cloning the project please run npm install to pull the relevant node modules as they have not been added to source control.
+## Prerequisites
+The node_modules folder and ios/Pods folder have been omitted from the repo due to size constraints. Please run the following commans where relevant.
 
+### For iOS and Android
+Run in the project root directory.
+  ```sh
+  npm install
+  ```
+
+### For iOS additionally
+Run in the ios/ directory.
+  ```sh
+  pod install
+  ```
 ### Video Tutorial for iOS
 Coming soon!
 ### Video Tutorial for Android
