@@ -11,7 +11,7 @@ Run in the project root directory.
   ```
 
 ### For iOS additionally
-Run in the ios/ directory.
+Run in the <porject_root>/ios/ directory.
   ```sh
   pod install
   ```
