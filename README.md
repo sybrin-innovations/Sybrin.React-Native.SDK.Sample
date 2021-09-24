@@ -2,7 +2,7 @@
 A React-Native project demonstrating how to implement the Sybrin iOS &amp; Android SDK's into a React-Native project using native bridges.
 
 ## Prerequisites
-The node_modules folder and ios/Pods folder have been omitted from the repo due to size constraints. Please run the following commans where relevant.
+The node_modules folder and ios/Pods folder have been omitted from the repo due to size constraints. Please run the following commands where relevant.
 
 ### For iOS and Android
 Run in the project root directory.
