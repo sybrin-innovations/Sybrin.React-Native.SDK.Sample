@@ -20,10 +20,10 @@ Run in the <project_root>/ios/ directory.
 ### Failed to build module from its module interface
 This issue is caused by the ML Kit dependency not having module stability. To workaround this problem (permanent fix pending), you can simply delete the import MLKit statement from the .swiftinterface file.
 
-Visual example of implementing fix:
+Visual guide for implementing fix:
 ![Gif showing how to remove MLKit import from .swiftinterface file](images/iOS_Module_Stability.gif)
 
 ### Video Tutorial for iOS
-Coming soon!
+![iOS implementation tutorial video on YouTube](https://youtu.be/agKQeIa4o1w)
 ### Video Tutorial for Android
 Coming soon!
